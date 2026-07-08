@@ -1,0 +1,77 @@
+{
+  "updated": "2026-07-09",
+  "packs": [
+    {
+      "id": "theme-midnight-purple",
+      "kind": "theme",
+      "name": "Midnight Purple",
+      "author": "Bezel team",
+      "description": "Deep violet night with a soft lavender accent.",
+      "file": "themes/midnight-purple.json",
+      "accent": "#b18cff"
+    },
+    {
+      "id": "theme-ocean-deep",
+      "kind": "theme",
+      "name": "Ocean Deep",
+      "author": "Bezel team",
+      "description": "Abyss blues with a bright cyan accent.",
+      "file": "themes/ocean-deep.json",
+      "accent": "#3ad8ff"
+    },
+    {
+      "id": "theme-famicom",
+      "kind": "theme",
+      "name": "Famicom",
+      "author": "Bezel team",
+      "description": "Warm console red on a dark maroon chassis.",
+      "file": "themes/famicom.json",
+      "accent": "#ff4554"
+    },
+    {
+      "id": "theme-vaporwave",
+      "kind": "theme",
+      "name": "Vaporwave",
+      "author": "Bezel team",
+      "description": "Neon pink over midnight indigo. A E S T H E T I C.",
+      "file": "themes/vaporwave.json",
+      "accent": "#ff71ce"
+    },
+    {
+      "id": "theme-terminal-amber",
+      "kind": "theme",
+      "name": "Terminal Amber",
+      "author": "Bezel team",
+      "description": "Pure-black phosphor terminal, classic amber glow.",
+      "file": "themes/terminal-amber.json",
+      "accent": "#ffb000"
+    },
+    {
+      "id": "chan-speedruns",
+      "kind": "channels",
+      "name": "Speedruns",
+      "author": "Bezel team",
+      "description": "GDQ marathons, Summoning Salt record histories, fresh WRs.",
+      "file": "channels/speedruns.json",
+      "accent": "#2f80ed"
+    },
+    {
+      "id": "chan-retro-docs",
+      "kind": "channels",
+      "name": "Retro documentaries",
+      "author": "Bezel team",
+      "description": "Gaming history and how-it-works deep dives for the couch.",
+      "file": "channels/retro-docs.json",
+      "accent": "#c0392b"
+    },
+    {
+      "id": "bezel-classic-dark",
+      "kind": "bezel",
+      "name": "Classic Dark Frame",
+      "author": "Bezel team",
+      "description": "A clean dark 4:3 frame with a soft amber edge for the in-app player.",
+      "file": "bezels/classic-dark-frame.png",
+      "preview": "bezels/classic-dark-frame.png"
+    }
+  ]
+}

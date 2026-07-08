@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Gaming Historian",
+    "sub": "Deep-dive gaming history",
+    "url": "https://www.youtube.com/@GamingHistorian",
+    "color": "#c0392b",
+    "emoji": "📜"
+  },
+  {
+    "name": "Modern Vintage Gamer",
+    "sub": "How retro tech really works",
+    "url": "https://www.youtube.com/@ModernVintageGamer",
+    "color": "#16a085",
+    "emoji": "🔧"
+  },
+  {
+    "name": "Noclip",
+    "sub": "Documentaries on game making",
+    "url": "https://www.youtube.com/@NoclipDocs",
+    "color": "#8e44ad",
+    "emoji": "🎬"
+  },
+  {
+    "name": "DF Retro",
+    "sub": "Retro tech analysis",
+    "url": "https://www.youtube.com/results?search_query=df+retro",
+    "color": "#2c3e50",
+    "emoji": "🖥"
+  }
+]

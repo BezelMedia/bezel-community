@@ -1,0 +1,15 @@
+{
+  "name": "Terminal Amber",
+  "base": "dark",
+  "vars": {
+    "--accent": "#ffb000",
+    "--accent-soft": "rgba(255, 176, 0, 0.16)",
+    "--accent-line": "rgba(255, 176, 0, 0.5)",
+    "--bg": "#000000",
+    "--surface": "#0d0a03",
+    "--surface-2": "#151105",
+    "--surface-3": "#1d1808",
+    "--line": "#241d0a",
+    "--line-soft": "#1a1507"
+  }
+}

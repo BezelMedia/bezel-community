@@ -1,0 +1,15 @@
+{
+  "name": "Midnight Purple",
+  "base": "dark",
+  "vars": {
+    "--accent": "#b18cff",
+    "--accent-soft": "rgba(177, 140, 255, 0.16)",
+    "--accent-line": "rgba(177, 140, 255, 0.5)",
+    "--bg": "#0d0a14",
+    "--surface": "#151021",
+    "--surface-2": "#1d172d",
+    "--surface-3": "#251e38",
+    "--line": "#2a2340",
+    "--line-soft": "#211b33"
+  }
+}

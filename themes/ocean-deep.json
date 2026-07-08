@@ -1,0 +1,15 @@
+{
+  "name": "Ocean Deep",
+  "base": "dark",
+  "vars": {
+    "--accent": "#3ad8ff",
+    "--accent-soft": "rgba(58, 216, 255, 0.16)",
+    "--accent-line": "rgba(58, 216, 255, 0.5)",
+    "--bg": "#081018",
+    "--surface": "#0e1822",
+    "--surface-2": "#14202d",
+    "--surface-3": "#1a2938",
+    "--line": "#1f3040",
+    "--line-soft": "#182634"
+  }
+}

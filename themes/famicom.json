@@ -1,0 +1,15 @@
+{
+  "name": "Famicom",
+  "base": "dark",
+  "vars": {
+    "--accent": "#ff4554",
+    "--accent-soft": "rgba(255, 69, 84, 0.16)",
+    "--accent-line": "rgba(255, 69, 84, 0.5)",
+    "--bg": "#140a0c",
+    "--surface": "#1d1013",
+    "--surface-2": "#26151a",
+    "--surface-3": "#301b21",
+    "--line": "#372025",
+    "--line-soft": "#2b181d"
+  }
+}

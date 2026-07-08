@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Games Done Quick",
+    "sub": "Speedrun marathons for charity",
+    "url": "https://www.youtube.com/@gamesdonequick",
+    "color": "#2f80ed",
+    "emoji": "🏁"
+  },
+  {
+    "name": "Summoning Salt",
+    "sub": "World-record progression docs",
+    "url": "https://www.youtube.com/@SummoningSalt",
+    "color": "#7a5cff",
+    "emoji": "⏱"
+  },
+  {
+    "name": "Speedrun.com highlights",
+    "sub": "Fresh runs & records",
+    "url": "https://www.youtube.com/results?search_query=speedrun+world+record",
+    "color": "#ff8a3d",
+    "emoji": "🎯"
+  }
+]

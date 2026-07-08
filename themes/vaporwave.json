@@ -1,0 +1,15 @@
+{
+  "name": "Vaporwave",
+  "base": "dark",
+  "vars": {
+    "--accent": "#ff71ce",
+    "--accent-soft": "rgba(255, 113, 206, 0.16)",
+    "--accent-line": "rgba(255, 113, 206, 0.5)",
+    "--bg": "#0f0c1d",
+    "--surface": "#171229",
+    "--surface-2": "#1f1936",
+    "--surface-3": "#272043",
+    "--line": "#2e2650",
+    "--line-soft": "#251e40"
+  }
+}
