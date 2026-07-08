@@ -8,7 +8,19 @@
       "author": "Bezel team",
       "description": "Deep violet night with a soft lavender accent.",
       "file": "themes/midnight-purple.json",
-      "accent": "#b18cff"
+      "accent": "#b18cff",
+      "base": "dark",
+      "vars": {
+        "--accent": "#b18cff",
+        "--accent-soft": "rgba(177, 140, 255, 0.16)",
+        "--accent-line": "rgba(177, 140, 255, 0.5)",
+        "--bg": "#0d0a14",
+        "--surface": "#151021",
+        "--surface-2": "#1d172d",
+        "--surface-3": "#251e38",
+        "--line": "#2a2340",
+        "--line-soft": "#211b33"
+      }
     },
     {
       "id": "theme-ocean-deep",
@@ -17,7 +29,19 @@
       "author": "Bezel team",
       "description": "Abyss blues with a bright cyan accent.",
       "file": "themes/ocean-deep.json",
-      "accent": "#3ad8ff"
+      "accent": "#3ad8ff",
+      "base": "dark",
+      "vars": {
+        "--accent": "#3ad8ff",
+        "--accent-soft": "rgba(58, 216, 255, 0.16)",
+        "--accent-line": "rgba(58, 216, 255, 0.5)",
+        "--bg": "#081018",
+        "--surface": "#0e1822",
+        "--surface-2": "#14202d",
+        "--surface-3": "#1a2938",
+        "--line": "#1f3040",
+        "--line-soft": "#182634"
+      }
     },
     {
       "id": "theme-famicom",
@@ -26,7 +50,19 @@
       "author": "Bezel team",
       "description": "Warm console red on a dark maroon chassis.",
       "file": "themes/famicom.json",
-      "accent": "#ff4554"
+      "accent": "#ff4554",
+      "base": "dark",
+      "vars": {
+        "--accent": "#ff4554",
+        "--accent-soft": "rgba(255, 69, 84, 0.16)",
+        "--accent-line": "rgba(255, 69, 84, 0.5)",
+        "--bg": "#140a0c",
+        "--surface": "#1d1013",
+        "--surface-2": "#26151a",
+        "--surface-3": "#301b21",
+        "--line": "#372025",
+        "--line-soft": "#2b181d"
+      }
     },
     {
       "id": "theme-vaporwave",
@@ -35,7 +71,19 @@
       "author": "Bezel team",
       "description": "Neon pink over midnight indigo. A E S T H E T I C.",
       "file": "themes/vaporwave.json",
-      "accent": "#ff71ce"
+      "accent": "#ff71ce",
+      "base": "dark",
+      "vars": {
+        "--accent": "#ff71ce",
+        "--accent-soft": "rgba(255, 113, 206, 0.16)",
+        "--accent-line": "rgba(255, 113, 206, 0.5)",
+        "--bg": "#0f0c1d",
+        "--surface": "#171229",
+        "--surface-2": "#1f1936",
+        "--surface-3": "#272043",
+        "--line": "#2e2650",
+        "--line-soft": "#251e40"
+      }
     },
     {
       "id": "theme-terminal-amber",
@@ -44,7 +92,19 @@
       "author": "Bezel team",
       "description": "Pure-black phosphor terminal, classic amber glow.",
       "file": "themes/terminal-amber.json",
-      "accent": "#ffb000"
+      "accent": "#ffb000",
+      "base": "dark",
+      "vars": {
+        "--accent": "#ffb000",
+        "--accent-soft": "rgba(255, 176, 0, 0.16)",
+        "--accent-line": "rgba(255, 176, 0, 0.5)",
+        "--bg": "#000000",
+        "--surface": "#0d0a03",
+        "--surface-2": "#151105",
+        "--surface-3": "#1d1808",
+        "--line": "#241d0a",
+        "--line-soft": "#1a1507"
+      }
     },
     {
       "id": "chan-speedruns",
@@ -53,7 +113,18 @@
       "author": "Bezel team",
       "description": "GDQ marathons, Summoning Salt record histories, fresh WRs.",
       "file": "channels/speedruns.json",
-      "accent": "#2f80ed"
+      "accent": "#2f80ed",
+      "count": 3,
+      "emojis": [
+        "🏁",
+        "⏱",
+        "🎯"
+      ],
+      "colors": [
+        "#2f80ed",
+        "#7a5cff",
+        "#ff8a3d"
+      ]
     },
     {
       "id": "chan-retro-docs",
@@ -62,7 +133,20 @@
       "author": "Bezel team",
       "description": "Gaming history and how-it-works deep dives for the couch.",
       "file": "channels/retro-docs.json",
-      "accent": "#c0392b"
+      "accent": "#c0392b",
+      "count": 4,
+      "emojis": [
+        "📜",
+        "🔧",
+        "🎬",
+        "🖥"
+      ],
+      "colors": [
+        "#c0392b",
+        "#16a085",
+        "#8e44ad",
+        "#2c3e50"
+      ]
     },
     {
       "id": "bezel-classic-dark",
