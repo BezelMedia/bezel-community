@@ -1,0 +1,19 @@
+{
+  "name": "Pocket ii",
+  "base": "light",
+  "layout": "handheld",
+  "vars": {
+    "--accent": "#00b8e6",
+    "--accent-soft": "rgba(0, 184, 230, 0.14)",
+    "--accent-line": "rgba(0, 184, 230, 0.5)",
+    "--bg": "#e9edf2",
+    "--surface": "#ffffff",
+    "--surface-2": "#f2f5f9",
+    "--surface-3": "#e7ecf2",
+    "--line": "#d9dfe8",
+    "--line-soft": "#e4e9f0",
+    "--r-sm": "12px",
+    "--r-md": "16px",
+    "--r-lg": "22px"
+  }
+}
