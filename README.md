@@ -27,7 +27,7 @@ The same JSON you get from **Settings → Appearance → Copy** in Bezel:
 }
 ```
 
-`base` is `dark` or `light`. `vars` may override any of Bezel's CSS variables — `--accent`, `--accent-soft`, `--accent-line`, `--bg`, `--surface`, `--surface-2`, `--surface-3`, `--line`, `--line-soft`, `--text`, `--text-dim`, `--text-faint`.
+`base` is `dark` or `light`. A theme may also set `"layout": "handheld"` to rearrange the shell (nav docks to the bottom, 3DS-style) — more layouts to come. `vars` may override any of Bezel's CSS variables — `--accent`, `--accent-soft`, `--accent-line`, `--bg`, `--surface`, `--surface-2`, `--surface-3`, `--line`, `--line-soft`, `--text`, `--text-dim`, `--text-faint`.
 
 ### 📺 TV channel packs — `channels/<id>.json`
 
