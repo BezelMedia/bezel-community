@@ -1,0 +1,20 @@
+{
+  "name": "Tokyo Night Sky",
+  "base": "dark",
+  "wallpaper": "wallpapers/tokyo-night.png",
+  "vars": {
+    "--accent": "#ff7bb1",
+    "--accent-soft": "rgba(255, 123, 177, 0.16)",
+    "--accent-line": "rgba(255, 123, 177, 0.5)",
+    "--accent-ink": "#2a0a18",
+    "--surface": "rgba(16, 20, 40, 0.68)",
+    "--surface-2": "rgba(24, 30, 56, 0.62)",
+    "--surface-3": "rgba(34, 40, 70, 0.6)",
+    "--line": "rgba(150, 165, 220, 0.22)",
+    "--line-soft": "rgba(150, 165, 220, 0.13)",
+    "--wallpaper-dim": "rgba(8, 10, 28, 0.32)",
+    "--glass": "blur(16px) saturate(1.25)",
+    "--mark-bg": "#ff7bb1",
+    "--mark-inner": "#0a1030"
+  }
+}

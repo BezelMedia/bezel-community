@@ -1,0 +1,20 @@
+{
+  "name": "Sunset Coast",
+  "base": "dark",
+  "wallpaper": "wallpapers/sunset-coast.png",
+  "vars": {
+    "--accent": "#ffa552",
+    "--accent-soft": "rgba(255, 165, 82, 0.16)",
+    "--accent-line": "rgba(255, 165, 82, 0.5)",
+    "--accent-ink": "#2b1305",
+    "--surface": "rgba(38, 22, 44, 0.64)",
+    "--surface-2": "rgba(50, 30, 56, 0.58)",
+    "--surface-3": "rgba(62, 38, 66, 0.56)",
+    "--line": "rgba(255, 190, 140, 0.22)",
+    "--line-soft": "rgba(255, 190, 140, 0.13)",
+    "--wallpaper-dim": "rgba(30, 14, 36, 0.28)",
+    "--glass": "blur(16px) saturate(1.25)",
+    "--mark-bg": "#ffa552",
+    "--mark-inner": "#2b1305"
+  }
+}

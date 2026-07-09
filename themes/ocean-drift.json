@@ -1,0 +1,21 @@
+{
+  "name": "Ocean Drift",
+  "base": "light",
+  "wallpaper": "wallpapers/ocean-drift.png",
+  "vars": {
+    "--accent": "#0a9fd8",
+    "--accent-soft": "rgba(10, 159, 216, 0.14)",
+    "--accent-line": "rgba(10, 159, 216, 0.5)",
+    "--accent-ink": "#ffffff",
+    "--surface": "rgba(255, 255, 255, 0.74)",
+    "--surface-2": "rgba(240, 250, 254, 0.66)",
+    "--surface-3": "rgba(228, 244, 251, 0.64)",
+    "--line": "rgba(30, 110, 150, 0.18)",
+    "--line-soft": "rgba(30, 110, 150, 0.11)",
+    "--wallpaper-dim": "rgba(255, 255, 255, 0.12)",
+    "--glass": "blur(14px) saturate(1.2)",
+    "--mark-bg": "#ffffff",
+    "--mark-inner": "#0a9fd8",
+    "--mark-line": "rgba(30, 110, 150, 0.25)"
+  }
+}
