@@ -1,0 +1,23 @@
+{
+  "name": "Bezel-lite",
+  "base": "light",
+  "layout": "handheld",
+  "vars": {
+    "--accent": "#00a0e0",
+    "--accent-soft": "rgba(0, 160, 224, 0.14)",
+    "--accent-line": "rgba(0, 160, 224, 0.5)",
+    "--accent-ink": "#ffffff",
+    "--mark-bg": "#ffffff",
+    "--mark-inner": "#00a0e0",
+    "--mark-line": "#d4dbe4",
+    "--bg": "#f4f6f9",
+    "--surface": "#ffffff",
+    "--surface-2": "#eef1f6",
+    "--surface-3": "#e5eaf1",
+    "--line": "#dbe1ea",
+    "--line-soft": "#e6ebf2",
+    "--r-sm": "12px",
+    "--r-md": "16px",
+    "--r-lg": "22px"
+  }
+}
